@@ -22,6 +22,9 @@
         "serial": {
             "driver": "vendor",
             "pin": "GP2"
+        },
+        "usb_detect": {
+            "enabled": false
         }
     },
     "diode_direction": "COL2ROW",
